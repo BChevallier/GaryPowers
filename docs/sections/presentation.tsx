@@ -304,7 +304,7 @@ export function presentation(){
         </p>
       </section>
       <section>
-        <h2>Bildquellen</h2>
+        <h2>Bildquellen </h2>
 
         <p>
           <a

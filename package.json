@@ -16,7 +16,7 @@
     "reveal.js": "^5.2.1",
     "sass-embedded": "^1.97.3",
     "typescript": "~5.9.3",
-    "vite": "npm:rolldown-vite@7.3.1",
+    "vite": "npm:rolldown-vite@^7.3.1",
     "vite-tsconfig-paths": "^5.1.4"
   },
   "overrides": {
@@ -25,5 +25,21 @@
   "dependencies": {
     "fitty": "^2.4.2",
     "marked": "^17.0.1"
-  }
+  },
+  "description": "1. Go to https://github.com/BChevallier/revealjs_template 2. Press \"Use this template\" 3. Modify slides (sections) under docs #### localhost presentation 1. Open package.json 2. Run line format 3. Run line dev ### Host with GitHub Pages 1. Go to settings (in GitHub)->Pages and ensure \"sources\" is set to \"GitHub Actions\" 2. Check if the build was successful 3. Ensure that \"base\" in \"vite.config.ts\" is set to the repository name",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BChevallier/GaryPowers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BChevallier/GaryPowers/issues"
+  },
+  "homepage": "https://github.com/BChevallier/GaryPowers#readme"
 }

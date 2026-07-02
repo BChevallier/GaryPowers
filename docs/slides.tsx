@@ -1,6 +1,6 @@
 import JSX from "docs/jsx.ts";
-import { reference } from "docs/sections/reference.tsx";
+import { presentation } from "docs/sections/presentation.tsx";
 
 export function slides() {
-  return <div class="slides">{reference()}</div>;
+  return <div class="slides">{presentation()}</div>;
 }

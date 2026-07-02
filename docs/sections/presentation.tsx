@@ -305,7 +305,6 @@ export function presentation(){
       </section>
       <section>
         <h2>Bildquellen</h2>
-
         <p>
           <a
             href="https://cdn.britannica.com/86/10486-050-31BED824/Nikita-Khrushchev-1960.jpg"
